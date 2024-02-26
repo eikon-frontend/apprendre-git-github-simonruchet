@@ -6,6 +6,7 @@
   "main": "tests/test.js",
   "scripts": {
     "start": "npx serve",
+    "pretest": "npx playwright install --with-deps",
     "test": "npx playwright test -c private/playwright.config.js"
   },
   "author": "tonifisler",
