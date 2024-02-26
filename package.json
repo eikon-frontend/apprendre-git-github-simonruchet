@@ -1,0 +1,15 @@
+{
+  "name": "github-starter-course",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "tests/test.js",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "author": "tonifisler",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.20"
+  }
+}
