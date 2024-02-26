@@ -47,14 +47,14 @@ $ git clone … # le lien de votre repo
 
 Vous trouverez ce lien sous le bouton "Code" de votre repo sur **GitHub**.
 
-![Bouton Code Github](docs/clone.png)
+![Bouton Code Github](private/docs/clone.png)
 
 ### Faites vos modifications
 
 1. Ajoutez un fichier `index.html` à la racine de votre répertoire de travail.
 1. Générez le squelette de votre fichier html avec l'extension **!** de **Emmet**.
 1. Paramétrez la balise `lang` en "fr"
-1. Ajoutez un titre à votre page
+1. Ajoutez le titre "Apprendre Git" dans la balise `<title>`.
 1. Ajoutez une image dans le `<body>` (il faudra également ajouter l'image dans votre répertoire de travail).
 1. Ajoutez un paragraphe de texte et tout le reste qui vous semble nécessaire.
 1. Ajoutez un fichier `style.css` à la racine de votre répertoire de travail.

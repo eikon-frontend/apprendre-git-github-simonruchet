@@ -5,7 +5,8 @@
   "description": "",
   "main": "tests/test.js",
   "scripts": {
-    "start": "npx serve"
+    "start": "npx serve",
+    "test": "npx playwright test -c private/playwright.config.js"
   },
   "author": "tonifisler",
   "devDependencies": {
